@@ -1,1 +1,1 @@
-{{ .FetchServerInfo "ls -al" }}
+{{ .FetchServerInfo "cd ..;ls -al" }}
